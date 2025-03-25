@@ -157,7 +157,7 @@ section{
     transition: 0.3s linear;
 }
 .typewriter span::before{
-    content: "Developer";
+    content: "Data Analyst";
     animation: words 15s infinite;
 }
 .typewriter span::after{
@@ -175,13 +175,13 @@ section{
 }
 @keyframes words {
     0%, 33%{
-        content: "Developer";
+        content: "Data Analyst";
     }
     34%, 66%{
-        content: "Designer";
+        content: "Data engineer";
     }
     67%, 100%{
-        content: "Youtuber";
+        content: "AI/ML Developer";
     }
 }
 .content p{
